@@ -6,7 +6,7 @@ title: Illuminance and Motion Sensor P1
 category: sensor
 supports: occupancy, batterypct, illuminance, detection interval, motion sensitivity, trigger indicator
 zigbeemodel: ['lumi.motion.ac02']
-compatible: [z2m, zha, deconz]
+compatible: [z2m, zha, deconz, z4d]
 deconz: 6069
 mlink: https://www.aqara.com/en/product/motion-sensor-p1
 link: https://www.domadoo.fr/en/peripheriques/6138-xiaomi-aqara-zigbee-30-aqara-motion-sensor-p1-ms-s02-6970504215979.html

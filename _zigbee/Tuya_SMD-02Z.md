@@ -6,7 +6,7 @@ title: Dimmer Module 2 Channel
 category: switch
 supports: on/off
 zigbeemodel: ['TS1101', '_TZ3000_7ysdnebc', 'TS110E', '_TZ3210_3mpwqzuu', '_TZ3210_wdexaypg']
-compatible: [z2m]
+compatible: [z2m, z4d]
 z2m: TS110E_2gang
 mlink: https://expo.tuya.com/product/906029
 link: https://www.aliexpress.com/item/1005003012298844.html
